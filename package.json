@@ -26,5 +26,8 @@
     "node": ">=6.0.0",
     "homebridge": ">=0.2.0"
   },
-  "homepage": "https://github.com/rxseger/homebridge-lightsensor-analog#readme"
+  "homepage": "https://github.com/rxseger/homebridge-lightsensor-analog#readme",
+  "dependencies": {
+    "mcp-spi-adc": "^0.3.1"
+  }
 }
