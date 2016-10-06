@@ -1,0 +1,30 @@
+{
+  "name": "homebridge-lightsensor-analog",
+  "version": "0.0.1",
+  "description": "Light sensor with analog (ADC) interface for Homebridge: https://github.com/nfarina/homebridge\"",
+  "main": "lightsensor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rxseger/homebridge-lightsensor-analog.git"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "light",
+    "lightsensor",
+    "sensor",
+    "analog"
+  ],
+  "author": "rxserger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rxseger/homebridge-lightsensor-analog/issues"
+  },
+  "engines": {
+    "node": ">=6.0.0",
+    "homebridge": ">=0.2.0"
+  },
+  "homepage": "https://github.com/rxseger/homebridge-lightsensor-analog#readme"
+}
